@@ -1,9 +1,10 @@
-/** Task 1
- * Create three arrays of type int and random size.
- * Fill each with random values. Then create an array
- * containing arrays that were created earlier.
- * Display all of the values using an array that contain them.
- */
+/*
+ Task 1
+ Create three arrays of type int and random size.
+ Fill each with random values. Then create an array
+ Containing arrays that were created earlier.
+ Display all of the values using an array that contain them.
+*/
 
 public class Arrays_1
 {

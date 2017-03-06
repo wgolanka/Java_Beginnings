@@ -1,10 +1,11 @@
-/** Task 3
- * Create random sized array and fill it with random
- * values. Then create a program that will double it
- * size and fill its first half with this array values
- * sorted low to high and the second half with the same
- * values but sorted high to low.
- */
+/*
+ Task 3
+ Create random sized array and fill it with random
+ values. Then create a program that will double it
+ size and fill its first half with this array values
+ sorted low to high and the second half with the same
+ values but sorted high to low.
+*/
 public class Arrays_2
 {
     public static int[] sortLowToHigh(int[] array)
@@ -88,4 +89,4 @@ Array with random length and fill:
 
 Doubled and sorted array
 0 0 0 2 2 3 4 5 5 5 6 6 7 7 7 8 9 9 9 9 9 9 8 7 7 7 6 6 5 5 5 4 3 2 2 0 0 0
- */
+*/

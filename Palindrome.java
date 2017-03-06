@@ -1,7 +1,8 @@
-/** Task 2
- * Create a simple method to check and
- * display if the given word is a palindrome.
- */
+/*
+ Task 2
+ Create a simple method to check and
+ display if the given word is a palindrome.
+*/
 public class Palindrome
 {
     public static boolean isPalindrome(char[] palindrome)
@@ -53,9 +54,11 @@ public class Palindrome
         char[] palindrome = {'d','e','v','i','l',' ','l','i','v','e','d'};
         isPalindrome(palindrome);
     }
-	/* output:
-	* Word normally: devil lived
-	* Word from behind: devil lived
-	* It is a palindrome!
-	*/
+
+/*
+output:
+Word normally: devil lived
+Word from behind: devil lived
+It is a palindrome!
+*/
 }
