@@ -46,3 +46,20 @@ public class Arrays_1
         }
     }
 }
+/*
+Example output:
+
+First array:
+6 3 8 0 1 0 4 9
+
+Second array:
+3 5 6 6 7 5
+
+Third array:
+5 1 3 2 3
+
+hared array:
+6 3 8 0 1 0 4 9
+3 5 6 6 7 5
+5 1 3 2 3
+*/
