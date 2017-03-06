@@ -1,5 +1,5 @@
 ## My beginnings with programming ##
-Simple Java tasks from school/ books.
+Simple Java tasks from school/books.
 
 ----------
 
