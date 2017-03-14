@@ -1,6 +1,7 @@
 /*
  Task 6
- Create non-result method that will write in
+ Create non-result method that will write in write in
+ to console a square as x and o alternately.
  First argument of this method should define
  amount of tokens in side of the square and second
  one which token is a starting one.
