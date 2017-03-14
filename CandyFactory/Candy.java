@@ -17,7 +17,7 @@ public class Candy
     }
     public void show()
     {
-        System.out.println("Candy of flavor " + 
+        System.out.println("Candy of flavor " +
                 this.flavor + " weights " + this.weight);
     }
 }
