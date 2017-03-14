@@ -13,7 +13,6 @@ public class Square
     {
         side = a;
     }
-
     double getSquareArea()
     {
         double area = side;
@@ -26,7 +25,6 @@ public class Square
         volume = side * side * side;
         return volume;
     }
-
     public Cylinder getCylinder()
     {
         Square square = new Square(3);
