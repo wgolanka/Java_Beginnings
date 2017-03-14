@@ -1,11 +1,9 @@
 package HipToBeSquare;
-
 /*
  Basically a task to count square,
  cube, cylinder areas and volume.
  Also build a cylinder of the square
 */
-
 public class Main
 {
     public static void main(String[] args)
@@ -15,7 +13,6 @@ public class Main
         square.show();
         System.out.println();
         square.getCylinder().showCylinder();
-
     }
 }
 

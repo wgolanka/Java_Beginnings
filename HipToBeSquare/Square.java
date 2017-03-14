@@ -1,10 +1,8 @@
 package HipToBeSquare;
-
 /*
  Basically a task to count square,
  cube, cylinder areas and volume.
 */
-
 public class Square
 {
     public double side;
