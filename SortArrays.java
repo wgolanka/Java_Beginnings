@@ -6,7 +6,7 @@
  sorted low to high and the second half with the same
  values but sorted high to low.
 */
-public class Arrays_2
+public class SortArrays
 {
     public static int[] sortLowToHigh(int[] array)
     {
